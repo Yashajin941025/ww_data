@@ -1,0 +1,1501 @@
+{
+    "name": "漪瀾浮錄",
+    "name_en": "Cosmic Ripples",
+    "starLevel": 5,
+    "type": 5,
+    "stats": {
+        "0": {
+            "1": [
+                {
+                    "name": "攻擊",
+                    "value": 40.0,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.12,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "2": [
+                {
+                    "name": "攻擊",
+                    "value": 43.368,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.12,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "3": [
+                {
+                    "name": "攻擊",
+                    "value": 46.74,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.12,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "4": [
+                {
+                    "name": "攻擊",
+                    "value": 50.112,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.12,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "5": [
+                {
+                    "name": "攻擊",
+                    "value": 53.48,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.143328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "6": [
+                {
+                    "name": "攻擊",
+                    "value": 56.852,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.143328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "7": [
+                {
+                    "name": "攻擊",
+                    "value": 60.224,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.143328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "8": [
+                {
+                    "name": "攻擊",
+                    "value": 63.592,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.143328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "9": [
+                {
+                    "name": "攻擊",
+                    "value": 66.964,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.143328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "10": [
+                {
+                    "name": "攻擊",
+                    "value": 70.336,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.166656,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "11": [
+                {
+                    "name": "攻擊",
+                    "value": 73.704,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.166656,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "12": [
+                {
+                    "name": "攻擊",
+                    "value": 77.076,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.166656,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "13": [
+                {
+                    "name": "攻擊",
+                    "value": 80.448,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.166656,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "14": [
+                {
+                    "name": "攻擊",
+                    "value": 83.82,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.166656,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "15": [
+                {
+                    "name": "攻擊",
+                    "value": 87.188,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.189996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "16": [
+                {
+                    "name": "攻擊",
+                    "value": 90.56,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.189996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "17": [
+                {
+                    "name": "攻擊",
+                    "value": 93.932,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.189996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "18": [
+                {
+                    "name": "攻擊",
+                    "value": 97.3,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.189996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "19": [
+                {
+                    "name": "攻擊",
+                    "value": 100.672,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.189996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "20": [
+                {
+                    "name": "攻擊",
+                    "value": 104.044,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.213324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ]
+        },
+        "1": {
+            "20": [
+                {
+                    "name": "攻擊",
+                    "value": 130.708,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.213324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "21": [
+                {
+                    "name": "攻擊",
+                    "value": 134.08,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.213324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "22": [
+                {
+                    "name": "攻擊",
+                    "value": 137.452,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.213324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "23": [
+                {
+                    "name": "攻擊",
+                    "value": 140.82,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.213324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "24": [
+                {
+                    "name": "攻擊",
+                    "value": 144.192,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.213324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "25": [
+                {
+                    "name": "攻擊",
+                    "value": 147.564,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.236664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "26": [
+                {
+                    "name": "攻擊",
+                    "value": 150.936,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.236664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "27": [
+                {
+                    "name": "攻擊",
+                    "value": 154.304,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.236664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "28": [
+                {
+                    "name": "攻擊",
+                    "value": 157.676,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.236664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "29": [
+                {
+                    "name": "攻擊",
+                    "value": 161.048,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.236664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "30": [
+                {
+                    "name": "攻擊",
+                    "value": 164.416,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.259992,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "31": [
+                {
+                    "name": "攻擊",
+                    "value": 167.788,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.259992,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "32": [
+                {
+                    "name": "攻擊",
+                    "value": 171.16,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.259992,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "33": [
+                {
+                    "name": "攻擊",
+                    "value": 174.528,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.259992,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "34": [
+                {
+                    "name": "攻擊",
+                    "value": 177.9,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.259992,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "35": [
+                {
+                    "name": "攻擊",
+                    "value": 181.272,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.283332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "36": [
+                {
+                    "name": "攻擊",
+                    "value": 184.644,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.283332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "37": [
+                {
+                    "name": "攻擊",
+                    "value": 188.012,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.283332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "38": [
+                {
+                    "name": "攻擊",
+                    "value": 191.384,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.283332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "39": [
+                {
+                    "name": "攻擊",
+                    "value": 194.756,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.283332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "40": [
+                {
+                    "name": "攻擊",
+                    "value": 198.124,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.30666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ]
+        },
+        "2": {
+            "40": [
+                {
+                    "name": "攻擊",
+                    "value": 224.792,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.30666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "41": [
+                {
+                    "name": "攻擊",
+                    "value": 228.164,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.30666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "42": [
+                {
+                    "name": "攻擊",
+                    "value": 231.532,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.30666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "43": [
+                {
+                    "name": "攻擊",
+                    "value": 234.904,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.30666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "44": [
+                {
+                    "name": "攻擊",
+                    "value": 238.276,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.30666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "45": [
+                {
+                    "name": "攻擊",
+                    "value": 241.644,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.33,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "46": [
+                {
+                    "name": "攻擊",
+                    "value": 245.016,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.33,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "47": [
+                {
+                    "name": "攻擊",
+                    "value": 248.388,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.33,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "48": [
+                {
+                    "name": "攻擊",
+                    "value": 251.76,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.33,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "49": [
+                {
+                    "name": "攻擊",
+                    "value": 255.128,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.33,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "50": [
+                {
+                    "name": "攻擊",
+                    "value": 258.5,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.353328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ]
+        },
+        "3": {
+            "50": [
+                {
+                    "name": "攻擊",
+                    "value": 285.168,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.353328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "51": [
+                {
+                    "name": "攻擊",
+                    "value": 288.536,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.353328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "52": [
+                {
+                    "name": "攻擊",
+                    "value": 291.908,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.353328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "53": [
+                {
+                    "name": "攻擊",
+                    "value": 295.28,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.353328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "54": [
+                {
+                    "name": "攻擊",
+                    "value": 298.648,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.353328,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "55": [
+                {
+                    "name": "攻擊",
+                    "value": 302.02,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.376656,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "56": [
+                {
+                    "name": "攻擊",
+                    "value": 305.392,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.376656,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "57": [
+                {
+                    "name": "攻擊",
+                    "value": 308.764,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.376656,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "58": [
+                {
+                    "name": "攻擊",
+                    "value": 312.132,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.376656,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "59": [
+                {
+                    "name": "攻擊",
+                    "value": 315.504,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.376656,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "60": [
+                {
+                    "name": "攻擊",
+                    "value": 318.876,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.399996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ]
+        },
+        "4": {
+            "60": [
+                {
+                    "name": "攻擊",
+                    "value": 345.54,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.399996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "61": [
+                {
+                    "name": "攻擊",
+                    "value": 348.912,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.399996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "62": [
+                {
+                    "name": "攻擊",
+                    "value": 352.284,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.399996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "63": [
+                {
+                    "name": "攻擊",
+                    "value": 355.652,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.399996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "64": [
+                {
+                    "name": "攻擊",
+                    "value": 359.024,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.399996,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "65": [
+                {
+                    "name": "攻擊",
+                    "value": 362.396,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.423324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "66": [
+                {
+                    "name": "攻擊",
+                    "value": 365.764,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.423324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "67": [
+                {
+                    "name": "攻擊",
+                    "value": 369.136,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.423324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "68": [
+                {
+                    "name": "攻擊",
+                    "value": 372.508,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.423324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "69": [
+                {
+                    "name": "攻擊",
+                    "value": 375.88,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.423324,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "70": [
+                {
+                    "name": "攻擊",
+                    "value": 379.248,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.446664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ]
+        },
+        "5": {
+            "70": [
+                {
+                    "name": "攻擊",
+                    "value": 405.916,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.446664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "71": [
+                {
+                    "name": "攻擊",
+                    "value": 409.288,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.446664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "72": [
+                {
+                    "name": "攻擊",
+                    "value": 412.656,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.446664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "73": [
+                {
+                    "name": "攻擊",
+                    "value": 416.028,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.446664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "74": [
+                {
+                    "name": "攻擊",
+                    "value": 419.4,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.446664,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "75": [
+                {
+                    "name": "攻擊",
+                    "value": 422.768,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.469992,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "76": [
+                {
+                    "name": "攻擊",
+                    "value": 426.14,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.469992,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "77": [
+                {
+                    "name": "攻擊",
+                    "value": 429.512,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.469992,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "78": [
+                {
+                    "name": "攻擊",
+                    "value": 432.88,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.469992,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "79": [
+                {
+                    "name": "攻擊",
+                    "value": 436.252,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.469992,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "80": [
+                {
+                    "name": "攻擊",
+                    "value": 439.624,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.493332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ]
+        },
+        "6": {
+            "80": [
+                {
+                    "name": "攻擊",
+                    "value": 466.292,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.493332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "81": [
+                {
+                    "name": "攻擊",
+                    "value": 469.66,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.493332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "82": [
+                {
+                    "name": "攻擊",
+                    "value": 473.032,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.493332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "83": [
+                {
+                    "name": "攻擊",
+                    "value": 476.404,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.493332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "84": [
+                {
+                    "name": "攻擊",
+                    "value": 479.772,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.493332,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "85": [
+                {
+                    "name": "攻擊",
+                    "value": 483.144,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.51666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "86": [
+                {
+                    "name": "攻擊",
+                    "value": 486.516,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.51666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "87": [
+                {
+                    "name": "攻擊",
+                    "value": 489.884,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.51666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "88": [
+                {
+                    "name": "攻擊",
+                    "value": 493.256,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.51666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "89": [
+                {
+                    "name": "攻擊",
+                    "value": 496.628,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.51666,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ],
+            "90": [
+                {
+                    "name": "攻擊",
+                    "value": 500.0,
+                    "isRatio": false,
+                    "isPercent": false
+                },
+                {
+                    "name": "攻擊",
+                    "value": 0.54,
+                    "isRatio": true,
+                    "isPercent": false
+                }
+            ]
+        }
+    },
+    "effect": "共鳴效率提升{0}。 造成普攻傷害時，普攻傷害加成提升{1}，可疊加{2}層，持續{3}秒，每{4}秒可觸發{5}次。",
+    "effectName": "武器",
+    "param": [
+        [
+            "12.8%",
+            "16%",
+            "19.2%",
+            "22.4%",
+            "25.6%"
+        ],
+        [
+            "3.2%",
+            "4%",
+            "4.8%",
+            "5.6%",
+            "6.4%"
+        ],
+        [
+            "5",
+            "5",
+            "5",
+            "5",
+            "5"
+        ],
+        [
+            "8",
+            "8",
+            "8",
+            "8",
+            "8"
+        ],
+        [
+            "0.5",
+            "0.5",
+            "0.5",
+            "0.5",
+            "0.5"
+        ],
+        [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+        ]
+    ],
+    "desc": "觸碰它——在冰寒的矩陣之間，仿佛能觸碰到圍繞在天地之間的那片湖，它將指引你找到一切答案。 懷抱此音感儀，消滅所有阻擋在你與真理之間的敵人。",
+    "ascensions": {
+        "0": [
+            {
+                "key": 41100031,
+                "value": 6
+            },
+            {
+                "key": 2,
+                "value": 10000
+            }
+        ],
+        "1": [
+            {
+                "key": 43020031,
+                "value": 6
+            },
+            {
+                "key": 41100032,
+                "value": 6
+            },
+            {
+                "key": 2,
+                "value": 20000
+            }
+        ],
+        "2": [
+            {
+                "key": 43020032,
+                "value": 8
+            },
+            {
+                "key": 41100033,
+                "value": 4
+            },
+            {
+                "key": 2,
+                "value": 40000
+            }
+        ],
+        "3": [
+            {
+                "key": 43020033,
+                "value": 6
+            },
+            {
+                "key": 41100033,
+                "value": 6
+            },
+            {
+                "key": 2,
+                "value": 60000
+            }
+        ],
+        "4": [
+            {
+                "key": 43020034,
+                "value": 8
+            },
+            {
+                "key": 41100034,
+                "value": 4
+            },
+            {
+                "key": 2,
+                "value": 80000
+            }
+        ],
+        "5": [
+            {
+                "key": 43020034,
+                "value": 12
+            },
+            {
+                "key": 41100034,
+                "value": 8
+            },
+            {
+                "key": 2,
+                "value": 120000
+            }
+        ],
+        "6": [
+            {
+                "key": 2,
+                "value": 0
+            }
+        ]
+    }
+}
